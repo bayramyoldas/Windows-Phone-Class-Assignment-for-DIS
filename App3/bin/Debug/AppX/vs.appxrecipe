@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>S244-6</Machine>
+    <WindowsUser>kasutaja</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>4c7e5dd2-affc-42ed-a4a6-5063fb4dec61</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\kasutaja\Documents\Visual Studio 2013\Projects\App3\App3\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>16E43DBE4F522C8B5E4DB07F14B4AF2A2FE3F315DF87E5677F36F272637D74D1</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>4c7e5dd2-affc-42ed-a4a6-5063fb4dec61_1.0.0.0_neutral__t9n5hq9f0022a</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>4c7e5dd2-affc-42ed-a4a6-5063fb4dec61_t9n5hq9f0022a!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>4c7e5dd2-affc-42ed-a4a6-5063fb4dec61</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=kasutaja</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\kasutaja\Documents\Visual Studio 2013\Projects\App3\App3\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-11T17:16:34.208</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\kasutaja\Documents\Visual Studio 2013\Projects\App3\App3\bin\Debug\App3.exe">
+      <PackagePath>App3.exe</PackagePath>
+      <Modified>2015-03-11T18:02:02.095</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kasutaja\Documents\Visual Studio 2013\Projects\App3\App3\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kasutaja\Documents\Visual Studio 2013\Projects\App3\App3\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kasutaja\Documents\Visual Studio 2013\Projects\App3\App3\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kasutaja\Documents\Visual Studio 2013\Projects\App3\App3\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kasutaja\Documents\Visual Studio 2013\Projects\App3\App3\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-03-11T15:30:47.410</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kasutaja\Documents\Visual Studio 2013\Projects\App3\App3\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-03-11T17:59:17.289</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kasutaja\Documents\Visual Studio 2013\Projects\App3\App3\bin\Debug\Story.xbf">
+      <PackagePath>Story.xbf</PackagePath>
+      <Modified>2015-03-11T17:42:15.122</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kasutaja\Documents\Visual Studio 2013\Projects\App3\App3\bin\Debug\App3.xr.xml">
+      <PackagePath>App3.xr.xml</PackagePath>
+      <Modified>2015-03-11T17:56:06.625</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kasutaja\Documents\Visual Studio 2013\Projects\App3\App3\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-03-11T17:16:33.939</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

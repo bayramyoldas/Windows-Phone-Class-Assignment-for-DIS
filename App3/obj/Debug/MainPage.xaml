@@ -1,0 +1,33 @@
+﻿<Page
+    x:Class="App3.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App3"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="Black" AllowDrop="True">
+        <Image x:Name="img_viewer0"  HorizontalAlignment="Left" Height="227" Margin="72,10,0,0" VerticalAlignment="Top" Width="263"/>
+        <Button x:ConnectionId='1' x:Name="btn" Content="Write Your Story!" HorizontalAlignment="Left" Margin="45,672,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.193,0.394" Width="1274"                      Height="62"/>
+        <Image x:Name="img_viewer1" HorizontalAlignment="Left" Height="288.964" Margin="522.357,61.851,0,0" VerticalAlignment="Top" Width="326.617" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto">
+            <Image.RenderTransform>
+                <CompositeTransform Rotation="-1.244"/>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="img_viewer2" HorizontalAlignment="Left" Height="243.612" Margin="118.3,361.194,0,0" VerticalAlignment="Top" Width="314.066" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto">
+            <Image.RenderTransform>
+                <CompositeTransform Rotation="-18.832"/>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="img_viewer3" HorizontalAlignment="Left" Height="275" Margin="899,297,0,0" VerticalAlignment="Top" Width="296"/>
+        <TextBlock x:Name="txt4" HorizontalAlignment="Left" Margin="518,433,0,0" TextWrapping="Wrap" Text="Do you study your lessons?" VerticalAlignment="Top" FontSize="21" Visibility="Collapsed"/>
+        <TextBlock x:Name="txt1" HorizontalAlignment="Left" Margin="105,242,0,0" TextWrapping="Wrap" Text="So, you are using this app." VerticalAlignment="Top" Height="50" Width="230" FontSize="21" Visibility="Collapsed"/>
+        <TextBlock x:ConnectionId='2' x:Name="txt2" HorizontalAlignment="Left" Margin="1000,154,0,0" TextWrapping="Wrap" Text="Good for you for managed to use this app." VerticalAlignment="Top" Height="101" Width="230" FontSize="21"                                          Visibility="Collapsed"/>
+        <TextBlock x:Name="txt3" HorizontalAlignment="Left" Margin="947,598,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="50" Width="230" FontSize="21" Text="Keep going on!" Visibility="Collapsed"/>
+
+
+
+    </Grid>
+</Page>
+
